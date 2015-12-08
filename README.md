@@ -16,4 +16,10 @@ http://v.youku.com/v_show/id_XMTQwMDQ0OTkwMA==.html?from=y1.7-1.2
 4. 视频: Developing OpenResty Framework
 http://v.youku.com/v_show/id_XMTQwNDQ2NTUxMg==.html?from=y1.7-1.2
 
+5. 视频: 浅谈OpenResty未来的发展 by 章亦春
+http://v.youku.com/v_show/id_XMTQwMzIwMzU0OA==.html?from=y1.7-1.2
+
+6. 视频: OpenResty在速致的应用 by Jason
+http://v.youku.com/v_show/id_XMTQwMjMyODI4OA==.html?from=y1.7-1.2
+
 
